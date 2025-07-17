@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
