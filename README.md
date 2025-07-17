@@ -12,6 +12,9 @@ pinned: false
 
 This is a live application for segmenting the heart from CT scan images.
 
+**Try it live here:**  
+[👉 Heart CT Segmentation Demo on Hugging Face Spaces](https://huggingface.co/spaces/Dk123gfdhs/heart-segmentation-demo)
+
 You can choose from three different models to perform the segmentation:
 *   **Custom UNet**: A standard UNet model built from scratch.
 *   **SMP UNet (EfficientNet-B7)**: A powerful, pre-trained UNet from the `segmentation-models-pytorch` library.
